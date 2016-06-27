@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/mutalis/twitter-bootstrap-template/issues"
   },
-  "homepage": "https://github.com/mutalis/twitter-bootstrap-template"
+  "homepage": "https://github.com/mutalis/twitter-bootstrap-template",
+  "devDependencies": {
+    "bootstrap-loader": "^1.0.10",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.9.0",
+    "node-sass": "^3.8.0",
+    "resolve-url-loader": "^1.4.4",
+    "sass-loader": "^3.2.2",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1"
+  }
 }
