@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bootstrap-template",
+  "version": "0.0.1",
+  "description": "Twitter bootstrap 4 template",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mutalis/twitter-bootstrap-template.git"
+  },
+  "keywords": [
+    "twitter bootstrap",
+    "css modules"
+  ],
+  "author": "Mutalis",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/mutalis/twitter-bootstrap-template/issues"
+  },
+  "homepage": "https://github.com/mutalis/twitter-bootstrap-template"
+}
